@@ -5,3 +5,11 @@ cache/
 __pycache__/
 */__pycache__/
 */__pycache__/*
+*.txt
+*.csv
+*.gz
+*.zip
+implant-finder/mimiccxr_files/mimiccxr_studies_text
+mimiccxr_studies_text
+NegBio/
+implant-finder/cxr_studies_with_text
